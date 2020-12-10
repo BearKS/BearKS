@@ -9,9 +9,10 @@ I’m currently learning Computer Engineering at School of Engineering,KMITL
 
 Contact Me:
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-
-^^^^^^^Subscribe Me^^^^^^^^
+📷 [instagram][instagram] **|**
+📮 [facebook][facebook]
+📌📌📌Subscribe Me📌📌📌
 
 [youtube]: https://www.youtube.com/channel/UCFkNe3FN5NvhyYZU1ndWfsg
 [instagram]: https://www.instagram.com/ks_pamai/
+[facebook]: https://www.facebook.com/kanokvan.sangvaraporn/
