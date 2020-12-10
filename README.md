@@ -11,7 +11,7 @@ Contact Me:
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|**
 📮 [facebook][facebook]
-📌📌📌Subscribe Me📌📌📌
+📌Please Subscribe📌
 
 [youtube]: https://www.youtube.com/channel/UCFkNe3FN5NvhyYZU1ndWfsg
 [instagram]: https://www.instagram.com/ks_pamai/
