@@ -7,7 +7,7 @@ My name is Kanokvan Sangvaraporn
 I'm Begining Programming
 I’m currently learning Computer Engineering at School of Engineering,KMITL
 
-About Me:
+Contact Me:
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 
