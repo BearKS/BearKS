@@ -4,7 +4,7 @@
 ### Hi Everyone 👋
 About Me : 
 My name is Kanokvan Sangvaraporn
-I'm Begining Programming
+I'm Begining Programmer
 I’m currently learning Computer Engineering at School of Engineering,KMITL
 
 Contact Me:
