@@ -19,7 +19,4 @@ Contact Me:
 [facebook]: https://www.facebook.com/kanokvan.sangvaraporn/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BearKS&show_icons=true&locale=en&layout=compact&theme=monokai" alt="BearKS" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&locale=en&theme=monokai" alt="BearKS" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BearKS&theme=monokai" alt="BearKS" /></p>
