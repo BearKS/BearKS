@@ -19,14 +19,9 @@ Contact Me:
 [facebook]: https://www.facebook.com/kanokvan.sangvaraporn/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BearKS&show_icons=true&locale=en&layout=compact&theme=monokai" alt="BearKS" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&locale=en&theme=monokai" alt="BearKS" /></p
 
- dark
-![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=dark)
    radical
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=radical)  
-  merko
-![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=merko)
   gruvbox
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=gruvbox)
   tokyonight
@@ -37,8 +32,6 @@ Contact Me:
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=cobalt)
    synthwave
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=synthwave)
- highcontrast
-![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=highcontrast)
 dracula
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=dracula)
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
