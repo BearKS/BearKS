@@ -22,7 +22,7 @@ Contact Me:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&locale=en&theme=monokai" alt="BearKS" /></p
 
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BearKS/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearKS&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
