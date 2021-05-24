@@ -22,4 +22,4 @@ Contact Me:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&locale=en&theme=monokai" alt="BearKS" /></p
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=radical)
