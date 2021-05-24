@@ -36,9 +36,9 @@ Contact Me:
   cobalt
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=cobalt)
    synthwave
-![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme= synthwave)
+![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=synthwave)
  highcontrast
 ![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=highcontrast)
 dracula
-![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme= dracula)
+![BearKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearKS&show_icons=true&theme=dracula)
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
